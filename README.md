@@ -1,1 +1,3 @@
 # hello-world
+
+Hi, am Stevie - I love javascript and am learning git...
